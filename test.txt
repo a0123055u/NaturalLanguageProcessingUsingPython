@@ -1,0 +1,16 @@
+
+Work Experience:
+GlobalFoundries(nSearch Global Pte Ltd) - Software Developer(FullStack): March 2017 - Current
+Currently working with client @ Globalfoundries in Python's Django framework, HTML5/Angular js in Linux
+Environment under Global Tape-out operations/ Design Enablement team for Semiconductor Design. The team
+is about to launch MANTIS 3.0 shortly. Held responsible for:
+ Migration from angular 1.x to angular 1.5.6 in the entire project(ORC,DRC)(Lead developer)
+ Migration from ng-grid to ui-grid for table section in job report pages across the project. (Lead developer)
+ Migration to higher version bootstrap 3.3.7 from 2.x., Inject Angular UI component 2.4.0 for all pop up
+invocation, validation, alerts, Error handling (Lead developer)
+ Develop backend service as REST API using TastyPie(python) for django 1.10 enhancements.
+ Develop scheduler using celery (python) for auto population of data and change status on data mining
+form external system.
+ Fix bugs raised as hot fix in production.
+ Improve performance of work list loading in Optical Rule Check Apps using tastypie and celery.
+ Worked in detail with ng-csv, flow.js and angular file upload and django file upload packages.
